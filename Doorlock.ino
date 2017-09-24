@@ -3,11 +3,11 @@ Servo myservo;
 #include <ESP8266WiFi.h>
 #include <MQTT.h>
 
-#define AP_SSID     "Martian"
-#define AP_PASSWORD "bhulgaya123"  
+#define AP_SSID     "xxxx"
+#define AP_PASSWORD "xxxx"  
 
-#define EIOTCLOUD_USERNAME "vikasmali14"
-#define EIOTCLOUD_PASSWORD "bhulgaya123"
+#define EIOTCLOUD_USERNAME "xxxx"
+#define EIOTCLOUD_PASSWORD "xxxx"
 
 // create MQTT object
 #define EIOT_CLOUD_ADDRESS "cloud.iot-playground.com"
