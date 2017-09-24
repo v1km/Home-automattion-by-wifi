@@ -5,8 +5,8 @@
 
 MDNSResponder mdns;
 
-const char* ssid = "Martian";  
-const char* password = "bhulgaya123"; 
+const char* ssid = "xxxxx";  
+const char* password = "xxxxx"; 
 
 ESP8266WebServer server(80);
 
