@@ -17,8 +17,8 @@ char* device_id1 = "qwert1";
 //http://cloud.arest.io/e49n2di/digital/pinno/state
 //change the state as required
 // WiFi parameters
-const char* ssid = "Martian";
-const char* password = "bhulgaya123";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 // Functions
 void callback(char* topic, byte* payload, unsigned int length);
